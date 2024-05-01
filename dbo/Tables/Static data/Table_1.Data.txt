@@ -1,2 +1,2 @@
-﻿col1,HASH
-1         ,1eadd97f5ed427db413771c8cb684f0c
+﻿col1,col2,HASH
+1         ,,591bc0ad82f5783644da987001dae6bb
